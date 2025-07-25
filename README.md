@@ -31,6 +31,8 @@ Print metadata: `python mp3.py read-tags FILE`
 
 Example: `python mp3.py read-tags song1.mp3`
 
+You can configure which tag to print in `config.ini`.
+
 ---
 
 Edit metadata: `python mp3.py edit-tags FILE JSON_FILE`
