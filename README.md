@@ -13,7 +13,7 @@ It's recommended to use a Python virtual environment: `python -m venv venv`
 
 Activation on Linux: `source venv/bin/activate`
 
-Activation on Linux: `.\venv\Scripts\activate`
+Activation on Windows: `.\venv\Scripts\activate` (use `Set-ExecutionPolicy Unrestricted -Scope Process`)
 
 Install dependencies: `pip install -r requirements.txt`
 
